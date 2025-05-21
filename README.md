@@ -1,3 +1,6 @@
+> **Note:** The data in the `raw-results` folder are released under the [CC0 1.0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). See [`LICENSE`](LICENSE) file for more information.
+
+
 # Supplementary information for: TinkerHap - A Novel Read-Based Phasing Algorithm with Integrated Multi-Method Support for Enhanced Accuracy
 
 Uri Hartmann<sup>1\*</sup>, Eran Shaham<sup>1</sup>, Dafna Nathan<sup>1</sup>, Ilana Blech<sup>1</sup>,
